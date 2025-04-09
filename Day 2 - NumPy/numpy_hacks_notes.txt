@@ -1,0 +1,13 @@
+NumPy Hacks Recap:
+
+1️⃣ Create array:
+np.array([1, 2, 3])
+
+2️⃣ Reshape:
+np.array([1,2,3,4,5,6]).reshape(2, 3)
+
+3️⃣ Boolean filter:
+arr[arr > 5]
+
+4️⃣ Random matrix:
+np.random.randint(1, 100, (3, 3))

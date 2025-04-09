@@ -1,0 +1,6 @@
+✅ Python version: 3.10.13  
+✅ Jupyter Notebook installed  
+✅ Git installed & configured  
+✅ GitHub repo created: 100DaysOfAI  
+✅ VS Code installed  
+✅ Environment tested and working  

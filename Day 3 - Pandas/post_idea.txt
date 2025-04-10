@@ -1,0 +1,11 @@
+Instagram Carousel Idea 💡
+
+Title: "5 Must-Know Pandas Tricks for AI/ML Beginners"
+
+1️⃣ Read CSV in 1 line  
+2️⃣ Summarize with .describe()  
+3️⃣ Filter rows like SQL  
+4️⃣ Handle missing values  
+5️⃣ Bonus: Group by & aggregate
+
+#100DaysOfAI #Pandas #PythonForDataScience

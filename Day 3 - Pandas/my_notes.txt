@@ -1,0 +1,16 @@
+Pandas Quick Reference:
+
+🔹 Create DataFrame:
+pd.DataFrame({'Name': ['A', 'B'], 'Age': [20, 21]})
+
+🔹 Read CSV:
+df = pd.read_csv('sample.csv')
+
+🔹 Summary:
+df.head(), df.tail(), df.describe(), df.info()
+
+🔹 Filtering:
+df[df['Age'] > 20]
+
+🔹 Missing data:
+df.isnull().sum(), df.dropna(), df.fillna(value)

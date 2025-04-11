@@ -1,0 +1,19 @@
+EDA Quick Notes:
+
+🔹 Summary:
+df.info(), df.describe(), df.isnull().sum(), df.duplicated().sum()
+
+🔹 Cleaning:
+df.dropna(), df.fillna(), df.drop_duplicates()
+
+🔹 Grouping:
+df.groupby('column')['target'].mean()
+
+🔹 Visualization:
+import matplotlib.pyplot as plt
+
+df['Age'].hist()
+df['Sex'].value_counts().plot(kind='bar')
+plt.pie(df['Survived'].value_counts(), labels=['No', 'Yes'])
+
+plt.show()

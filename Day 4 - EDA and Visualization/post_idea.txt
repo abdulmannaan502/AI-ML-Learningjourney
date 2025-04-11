@@ -1,0 +1,11 @@
+Instagram Carousel Idea 💡
+
+Title: “Your First EDA with Pandas + Matplotlib”
+
+1️⃣ Understand your data
+2️⃣ Clean missing + duplicate values
+3️⃣ Group by & analyze categories
+4️⃣ Plot charts to reveal insights
+5️⃣ Bonus: Correlation heatmap
+
+#100DaysOfAI #EDA #DataCleaning #PythonForAI #BuildInPublic

@@ -16,7 +16,7 @@
 |---------------|-------|------|
 | Video | ML Crash Course by Google | [Watch Here](https://developers.google.com/machine-learning/crash-course) |
 | Article | Understanding Bias-Variance | [Read Here](https://towardsdatascience.com/bias-variance-tradeoff-explained-fa2f11c49a7b) |
-| Notes | Personal Notes (PDF) | [Read Here]([Day 5&6 - Intro to ML/ML_Day5_6_Notes.pdf](https://github.com/abdulmannaan502/AI-ML-Learningjourney/blob/46b830284ca54116c9c2fc77d363464e9afcec18/Day%205%266%20-%20Intro%20to%20ML/ML_Day5_6_Notes.pdf)) |
+| Notes | Personal Notes (PDF) | ([Read Here](https://github.com/abdulmannaan502/AI-ML-Learningjourney/blob/46b830284ca54116c9c2fc77d363464e9afcec18/Day%205%266%20-%20Intro%20to%20ML/ML_Day5_6_Notes.pdf)) |
 | Notebook | Linear Regression from scratch 
 
 ## 🧠 Summary Visual:

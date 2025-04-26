@@ -1,0 +1,26 @@
+# 📚 NLP Core Concepts – Learning Progress
+
+## ✅ What I’ve Learned
+
+I’ve completed my study of the **core concepts of Natural Language Processing (NLP)**. This includes understanding the foundational theories, techniques, and tools that power modern language-based AI systems.
+
+### Covered Topics:
+- What is NLP and its real-world applications
+- Text preprocessing (tokenization, stemming, lemmatization, stopwords)
+- Vectorization techniques (Bag of Words, TF-IDF, Word Embeddings)
+- Part-of-speech tagging
+- Named Entity Recognition (NER)
+- Language models (n-grams, statistical models, transformers)
+- Sentiment analysis basics
+- Introduction to NLP libraries (like NLTK, spaCy, and Hugging Face)
+
+## 📌 Notes
+
+- This README is part of my ongoing **#100DaysOfAI** journey.
+- All code samples, notes, and mini-projects related to NLP are organized in this folder.
+- 📅 **Date:** April 26, 2025  
+- 🔗 **GitHub Repo:** [Visit my project repository](https://github.com/abdulmannaan502/AI-ML-Learningjourney-Projects)
+
+---
+
+> *"Success is the sum of small efforts, repeated day in and day out."* – Robert Collier

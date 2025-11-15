@@ -3,7 +3,6 @@
 
 Welcome to my 100-day journey into the world of Artificial Intelligence and Machine Learning! 🚀  
 This repository is my daily journal where I practice, build, and document everything I learn — from basic Python to real-world AI projects.  
-My goal is simple but bold: **Master AI/ML and earn ₹10 Lakhs in 3 months using these skills** 💸
 
 ---
 
